@@ -1,6 +1,6 @@
 To use:
 
-1. Download firealpaca.nix where you put your nix stuff.
+1. Download firealpaca.nix where you put your non-nixpkgs nix stuff.
 2. Make sure you have unfree packages enabled.
 3. Add firealpaca to your packages (all lowercase), and add this line to your nix config, changing path accordingly:
 ```nix
