@@ -9,6 +9,7 @@ To use:
   ];
 ```
 4. Rebuild config.
+5. (optional) Create a desktop file for Firealpaca. It can be ran with firealpaca command.
 
 Please note the hash is refetched at noon everyday to account for updates.
 
